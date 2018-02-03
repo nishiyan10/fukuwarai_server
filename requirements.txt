@@ -1,0 +1,10 @@
+opencv-python
+gunicorn
+Flask
+Flask-Cors
+Jinja2
+Werkzeug
+distribute
+Pillow
+Scrapy
+Twisted
